@@ -1,0 +1,14 @@
+{
+  "cache_id": "CACHE-APPROVED-GOLD-PRICE-SOUR-8BD09CF471561987",
+  "citation": "Yahoo Finance chart API, symbol GC=F (COMEX gold futures), daily close in USD",
+  "normalization_rule": "round_nearest_integer",
+  "normalized_value": "1202",
+  "query": {
+    "date": "2018-10-02",
+    "symbol": "GC=F"
+  },
+  "raw_response_hash": "sha256:06ffd629efc93c077e32971874995fea9511c8b227635d646cf0e2479d510293",
+  "retrieved_at": "2026-07-07T23:22:34Z",
+  "source": "Approved gold-price source (Yahoo Finance GC=F daily close, USD)",
+  "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/GC=F?period1=1538438400&period2=1538611200&interval=1d"
+}

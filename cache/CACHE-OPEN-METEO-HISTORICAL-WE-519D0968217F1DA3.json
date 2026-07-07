@@ -1,0 +1,15 @@
+{
+  "cache_id": "CACHE-OPEN-METEO-HISTORICAL-WE-519D0968217F1DA3",
+  "citation": "Open-Meteo Historical Weather API, https://open-meteo.com/en/docs/historical-weather-api",
+  "normalization_rule": "coldest_hour_two_digit",
+  "normalized_value": "08",
+  "query": {
+    "city": "Dresden, Germany",
+    "date": "2018-02-26",
+    "timezone": "Europe/Berlin"
+  },
+  "raw_response_hash": "sha256:a08d956e47988231a983b84a00137b44004a015e43f8c92d0f2081a33963ea13",
+  "retrieved_at": "2026-07-07T23:22:34Z",
+  "source": "Open-Meteo Historical Weather API",
+  "source_url": "https://archive-api.open-meteo.com/v1/archive?latitude=51.0504&longitude=13.7373&start_date=2018-02-26&end_date=2018-02-26&hourly=temperature_2m&timezone=Europe%2FBerlin"
+}

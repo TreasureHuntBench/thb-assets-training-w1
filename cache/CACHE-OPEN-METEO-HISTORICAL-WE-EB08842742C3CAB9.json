@@ -1,0 +1,15 @@
+{
+  "cache_id": "CACHE-OPEN-METEO-HISTORICAL-WE-EB08842742C3CAB9",
+  "citation": "Open-Meteo Historical Weather API, https://open-meteo.com/en/docs/historical-weather-api",
+  "normalization_rule": "coldest_hour_two_digit",
+  "normalized_value": "23",
+  "query": {
+    "city": "Passau, Germany",
+    "date": "2015-02-03",
+    "timezone": "Europe/Berlin"
+  },
+  "raw_response_hash": "sha256:fad0c3974d3429cf427075a9fcc428be034981774e14c3c6d795b90e0fa0d2f7",
+  "retrieved_at": "2026-07-07T23:22:34Z",
+  "source": "Open-Meteo Historical Weather API",
+  "source_url": "https://archive-api.open-meteo.com/v1/archive?latitude=48.5665&longitude=13.4312&start_date=2015-02-03&end_date=2015-02-03&hourly=temperature_2m&timezone=Europe%2FBerlin"
+}

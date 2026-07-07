@@ -1,0 +1,15 @@
+{
+  "cache_id": "CACHE-OPEN-METEO-HISTORICAL-WE-2CB0389F892534DE",
+  "citation": "Open-Meteo Historical Weather API, https://open-meteo.com/en/docs/historical-weather-api",
+  "normalization_rule": "coldest_hour_two_digit",
+  "normalized_value": "10",
+  "query": {
+    "city": "Cologne, Germany",
+    "date": "2017-01-12",
+    "timezone": "Europe/Berlin"
+  },
+  "raw_response_hash": "sha256:043f3064a90b759dd79ebdb18315afad658e5abf20d78508fe21b06ba898e98f",
+  "retrieved_at": "2026-07-07T23:22:34Z",
+  "source": "Open-Meteo Historical Weather API",
+  "source_url": "https://archive-api.open-meteo.com/v1/archive?latitude=50.9375&longitude=6.9603&start_date=2017-01-12&end_date=2017-01-12&hourly=temperature_2m&timezone=Europe%2FBerlin"
+}

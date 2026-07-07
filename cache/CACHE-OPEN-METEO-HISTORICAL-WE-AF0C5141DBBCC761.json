@@ -1,0 +1,15 @@
+{
+  "cache_id": "CACHE-OPEN-METEO-HISTORICAL-WE-AF0C5141DBBCC761",
+  "citation": "Open-Meteo Historical Weather API, https://open-meteo.com/en/docs/historical-weather-api",
+  "normalization_rule": "coldest_hour_two_digit",
+  "normalized_value": "09",
+  "query": {
+    "city": "Berlin, Germany",
+    "date": "2019-01-23",
+    "timezone": "Europe/Berlin"
+  },
+  "raw_response_hash": "sha256:36925f5e8e453ea75ef3bf2fd12daf2a82f859f3bed8a0f8ea0e7709a52eb142",
+  "retrieved_at": "2026-07-07T23:22:34Z",
+  "source": "Open-Meteo Historical Weather API",
+  "source_url": "https://archive-api.open-meteo.com/v1/archive?latitude=52.52&longitude=13.405&start_date=2019-01-23&end_date=2019-01-23&hourly=temperature_2m&timezone=Europe%2FBerlin"
+}

@@ -1,0 +1,14 @@
+{
+  "cache_id": "CACHE-WIKIPEDIA-REST-PAGE-SUMM-7AC12DB6A92F6C8B",
+  "citation": "Wikimedia REST API page summary, https://en.wikipedia.org/api/rest_v1/",
+  "normalization_rule": "verbatim",
+  "normalized_value": "Q365",
+  "query": {
+    "field": "wikibase_item",
+    "page": "Cologne"
+  },
+  "raw_response_hash": "sha256:26683523dc8345d43657ed3869c25d165b44e6bc02cb065e93e8dd3f7f6c62f1",
+  "retrieved_at": "2026-07-07T23:22:34Z",
+  "source": "Wikipedia REST page summary",
+  "source_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Cologne"
+}
